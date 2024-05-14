@@ -1,3 +1,4 @@
 # obl-yandex
-![image](https://github.com/VsevolodYatsuk/obl-yandex/assets/130091517/7be7bd83-608b-4f34-b81d-a04b86b23b3a)
-![image](https://github.com/VsevolodYatsuk/obl-yandex/assets/130091517/adffe60b-d66c-4ad8-9483-3b2409649750)
+![image](https://github.com/VsevolodYatsuk/obl-yandex/assets/130091517/b0ce0b60-4d8c-4b93-afc8-39b576597397)
+![image](https://github.com/VsevolodYatsuk/obl-yandex/assets/130091517/6d7c030f-e738-41bb-becb-3a345ddaf922)
+![image](https://github.com/VsevolodYatsuk/obl-yandex/assets/130091517/13dd30ff-134e-4c31-92bb-e3c2a76c3728)
